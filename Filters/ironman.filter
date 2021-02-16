@@ -1,0 +1,115 @@
+{
+  "Title": "Iron Man",
+  "Version": "Marvel 23 disc set, disc 1",
+  "FilterOffset": "00:00:00.000",
+  "Filters": [
+    {
+      "Type": "Mute",
+      "Description": "Good G**.",
+      "StartTime": "00:01:37.600",
+      "EndTime": "00:01:38.300"
+    },
+    {
+      "Type": "Skip",
+      "Description": "Discussion about going '12 for 12' with cover girls",
+      "StartTime": "00:01:52.500",
+      "EndTime": "00:02:06.353"
+    },
+    {
+      "Type": "Mute",
+      "Description": "Son of a *****.",
+      "StartTime": "00:02:54.000",
+      "EndTime": "00:02:55.000"
+    },
+    {
+      "Type": "Skip",
+      "Description": "tony with reporter girl",
+      "StartTime": "00:08:51.000",
+      "EndTime": "00:10:32.000"
+    },
+    {
+      "Type": "Mute",
+      "Description": "What the ****.",
+      "StartTime": "00:18:02",
+      "EndTime": "00:18:03"
+    },
+    {
+      "Type": "Mute",
+      "Description": "Oh my G**, is that the thing that's keeping you alive",
+      "StartTime": "00:49:42",
+      "EndTime": "00:49:43"
+    },
+    {
+      "Type": "Mute",
+      "Description": "That is irrelevant.  -Oh my G**.",
+      "StartTime": "00:50:13.500",
+      "EndTime": "00:50:14.500"
+    },
+    {
+      "Type": "Mute",
+      "Description": "you just pulled it out.  Oh, G**.",
+      "StartTime": "00:51:15.750",
+      "EndTime": "00:51:16.250"
+    },
+    {
+      "Type": "Mute",
+      "Description": "***, you need a new name for that",
+      "StartTime": "01:08:59.800",
+      "EndTime": "01:09:00.500"
+    },
+    {
+      "Type": "Mute",
+      "Description": "You look great and you smell great. - Oh ***",
+      "StartTime": "01:10:07.500",
+      "EndTime": "01:10:08.500"
+    },
+    {
+      "Type": "Mute",
+      "Description": "what the **** was that?",
+      "StartTime": "01:19:34.500",
+      "EndTime": "01:19:35.500"
+    },
+    {
+      "Type": "Mute",
+      "Description": "what in the **** is that noise?",
+      "StartTime": "01:20:37.500",
+      "EndTime": "01:20:39.300"
+    },
+    {
+      "Type": "Mute",
+      "Description": "oh my ***, you crazy son of a ****",
+      "StartTime": "01:24:27.200",
+      "EndTime": "01:24:29.200"
+    },
+    {
+      "Type": "Mute",
+      "Description": "oh my ***",
+      "StartTime": "01:32:03.075",
+      "EndTime": "01:32:03.575"
+    },
+    {
+      "Type": "Skip",
+      "Description": "****!",
+      "StartTime": "01:42:56.500",
+      "EndTime": "01:43:01.400"
+    },
+    {
+      "Type": "Mute",
+      "Description": "Tony, oh my ***, are you okay?",
+      "StartTime": "01:49:14.000",
+      "EndTime": "01:49:14.700"
+    },
+    {
+      "Type": "Skip",
+      "Description": "first part of credits",
+      "StartTime": "01:57:25.300",
+      "EndTime": "02:05:15"
+    },
+    {
+      "Type": "Mute",
+      "Description": "who the **** are you",
+      "StartTime": "02:05:34.000",
+      "EndTime": "02:05:35.000"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "Title": "The Incredible Hulk",
+  "Version": "Marvel 23 disc set, disc 1",
+  "FilterOffset": "00:00:00.000",
+  "Filters": [
+    {
+      "Type": "Mute",
+      "Description": "**** it",
+      "StartTime": "00:11:36.667",
+      "EndTime": "00:11:37.400"
+    },
+    {
+      "Type": "Mute",
+      "Description": "Get rid of the **** dog",
+      "StartTime": "00:16:47.900",
+      "EndTime": "00:16:48.600"
+    },
+    {
+      "Type": "Mute",
+      "Description": "I'm gonna catch **** if I don't collect.",
+      "StartTime": "00:37:15",
+      "EndTime": "00:37:16"
+    },
+    {
+      "Type": "Mute",
+      "Description": "Oh my ***",
+      "StartTime": "00:40:20.250",
+      "EndTime": "00:40:20.900"
+    },
+    {
+      "Type": "Mute",
+      "Description": "*** it, we'd have had snipers....",
+      "StartTime": "00:48:08.500",
+      "EndTime": "00:48:09.500"
+    },
+    {
+      "Type": "Mute",
+      "Description": "where are the fifty cals?  move your *****",
+      "StartTime": "00:51:48.361",
+      "EndTime": "00:51:49.400"
+    },
+    {
+      "Type": "Skip",
+      "Description": "Oh my ***",
+      "StartTime": "00:52:38.500",
+      "EndTime": "00:52:40.000"
+    },
+    {
+      "Type": "Mute",
+      "Description": "my *** he's doing it",
+      "StartTime": "00:53:28.900",
+      "EndTime": "00:53:29.700"
+    },
+    {
+      "Type": "Mute",
+      "Description": "fire ****** it",
+      "StartTime": "00:56:05.850",
+      "EndTime": "00:56:07.000"
+    },
+    {
+      "Type": "Skip",
+      "Description": "in the shower",
+      "StartTime": "01:02:13",
+      "EndTime": "01:02:30"
+    },
+    {
+      "Type": "Skip",
+      "Description": "almost making out",
+      "StartTime": "01:05:01",
+      "EndTime": "01:05:54"
+    },
+    {
+      "Type": "Mute",
+      "Description": "he's not gonna use a **** credit card",
+      "StartTime": "01:07:52.500",
+      "EndTime": "01:07:53.300"
+    },
+    {
+      "Type": "Skip",
+      "Description": "a*****le",
+      "StartTime": "01:11:56",
+      "EndTime": "01:12:00"
+    },
+    {
+      "Type": "Mute",
+      "Description": "oh my ***",
+      "StartTime": "01:16:35",
+      "EndTime": "01:16:37"
+    },
+    {
+      "Type": "Mute",
+      "Description": "oh my ***",
+      "StartTime": "01:17:50.500",
+      "EndTime": "01:17:51.500"
+    },
+    {
+      "Type": "Mute",
+      "Description": "she's an annoying *****",
+      "StartTime": "01:22:59.250",
+      "EndTime": "01:23:00.750"
+    },
+    {
+      "Type": "Mute",
+      "Description": "D*** it!  Give me eyes down there!",
+      "StartTime": "01:26:46",
+      "EndTime": "01:26:47.500"
+    },
+    {
+      "Type": "Mute",
+      "Description": "What the **** was that?!",
+      "StartTime": "01:26:52.500",
+      "EndTime": "01:26:53.635"
+    },
+    {
+      "Type": "Mute",
+      "Description": "oh my ***, what have you done?",
+      "StartTime": "01:27:38.750",
+      "EndTime": "01:27:40"
+    },
+    {
+      "Type": "Skip",
+      "Description": "oh ****",
+      "StartTime": "01:30:24",
+      "EndTime": "01:30:27.750"
+    },
+    {
+      "Type": "Mute",
+      "Description": "D*** it!",
+      "StartTime": "01:33:05.880",
+      "EndTime": "01:33:06.500"
+    }
+  ]
+}
